@@ -1,7 +1,7 @@
 {
   "name": "coming-soon-pl",
   "version": "1.0.0",
-  "description": "A simple responsive HTML page hosted on GitHub Pages",
+  "description": "Pleasurelove.id wil be coming soon!",
   "scripts": {
     "deploy": "gh-pages -d public"
   },
