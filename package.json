@@ -10,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "gh-pages": "^6.3.0"
-  }
+  },
+  "homepage": "http://pleasurelove.id"
 }
