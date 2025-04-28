@@ -1,0 +1,14 @@
+{
+  "name": "coming-soon-pl",
+  "version": "1.0.0",
+  "description": "A simple responsive HTML page hosted on GitHub Pages",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [],
+  "author": "ajiinovasiteknologi",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
